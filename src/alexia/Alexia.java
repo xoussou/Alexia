@@ -25,7 +25,9 @@ public class Alexia {
         while(i<=10){
             lap.crier();
             i=i+1;
+           
         }
+        System.out.println("lmfjem");
     }
 
 }
